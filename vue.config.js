@@ -3,3 +3,11 @@ module.exports = {
         ? '/production-sub-path/'
         : '/'
 }
+
+module.exports = {
+    pwa: {
+        workboxOptions: {
+            exclude: [/_redirects/]
+        }
+    }
+}
