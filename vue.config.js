@@ -1,3 +1,5 @@
 module.exports = {
-    publicPath:'/wedding-invitation',
+    publicPath: process.env.NODE_ENV === 'production'
+        ? '/production-sub-path/'
+        : '/'
 }
