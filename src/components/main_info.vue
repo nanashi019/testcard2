@@ -32,8 +32,8 @@
           <p>큰 기쁨으로 간직하겠습니다.</p>
         </div>
       </div>
-      <div class="bottom-img">
-        <img :src="require('@/assets/images/img14.jpg')" />
+      <div class="main-picture">
+        <img src="@/assets/images/img14.jpg" />
       </div>
     </div>
     <div class="divide-line"></div>
@@ -119,8 +119,8 @@ export default {};
 }
 
 .bottom-img img {
-  width: 100%;
-  transform: translate(0, -55%);
+  width: 0;
+  transform: translate(0, 0);
 }
 
 @media (min-width: 350px) {
@@ -159,12 +159,12 @@ export default {};
   }
 
   .bottom-img {
-    height: 100%;
+    height: 0%;
     overflow: hidden;
   }
 
   .bottom-img img {
-    transform: translate(0, -60%);
+    transform: translate(0, 0);
   }
 }
 

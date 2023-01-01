@@ -1,15 +1,3 @@
-<template>
-  <div class="footer">
-    <ul>
-      email: leeseoooo@naver.com
-      <a href="https://github.com/leeseooo">Github: leeseooo</a>
-    </ul>
-    <ul>
-      © 2021. All Rights Reserved.
-    </ul>
-  </div>
-</template>
-
 <script>
 export default {};
 </script>
@@ -18,13 +6,15 @@ export default {};
 * {
   margin: 0;
   padding: 0;
-  font-size:1.2rem;
+  font-size: 1.2rem;
 }
-a{
-  color:black;
+
+a {
+  color: black;
   text-decoration: black;
   list-style-type: style;
 }
+
 .footer {
   background: #ceb2e4;
   height: 5rem;
@@ -37,7 +27,8 @@ a{
   font-weight: bold;
   padding-bottom: 1rem;
 }
-ul{
+
+ul {
   opacity: 0.7;
 }
 </style>

@@ -1,8 +1,8 @@
 <template>
   <div class="container">
-    <div class="title">
+    <div class="title" style="color:white">
       <p>/2023.3.18/</p>
-      <div class="desc">토요일 오후 3시</div>
+      <div class="desc" style="color:white">토요일 오후 3시</div>
     </div>
     <div class="divide-line"></div>
 
@@ -76,9 +76,9 @@ export default {
         { name: "Sat", style: null },
       ],
       week1: [
-        { date: 26, style: null, id: null },
-        { date: 27, style: null, id: null },
-        { date: 28, style: null, id: null },
+        { date: null, style: null, id: null },
+        { date: null, style: null, id: null },
+        { date: null, style: null, id: null },
         { date: 1, style: null, id: null },
         { date: 2, style: null, id: null },
         { date: 3, style: null, id: null },
