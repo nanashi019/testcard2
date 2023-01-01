@@ -1,8 +1,8 @@
 <template>
   <div class="container">
-    <div class="title" style="color:white">
+    <div class="title">
       <p>/2023.3.18/</p>
-      <div class="desc" style="color:white">토요일 오후 3시</div>
+      <div class="desc">토요일 오후 3시</div>
     </div>
     <div class="divide-line"></div>
 
