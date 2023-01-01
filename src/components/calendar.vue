@@ -79,7 +79,7 @@ export default {
         { date: 26, style: null, id: null },
         { date: 27, style: null, id: null },
         { date: 28, style: null, id: null },
-        { date: { nbsp1 }, style: null, id: null },
+        { date: 1, style: null, id: null },
         { date: 2, style: null, id: null },
         { date: 3, style: null, id: null },
         { date: 4, style: null, id: null },
