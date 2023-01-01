@@ -224,7 +224,7 @@ export default {};
   }
 
   .bottom-img img {
-    transform: translate(0, -55%);
+    transform: translate(0, -10%);
   }
 
   .divide-line {
