@@ -159,7 +159,7 @@ export default {};
   }
 
   .bottom-img {
-    height: 50%;
+    height: 100%;
     overflow: hidden;
   }
 
@@ -220,11 +220,11 @@ export default {};
   }
 
   .bottom-img {
-    height: 50%;
+    height: 100%;
   }
 
   .bottom-img img {
-    transform: translate(0, -10%);
+    transform: translate(0, -55%);
   }
 
   .divide-line {
