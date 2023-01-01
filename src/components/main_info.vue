@@ -159,7 +159,7 @@ export default {};
   }
 
   .bottom-img {
-    height: 25%;
+    height: 50%;
     overflow: hidden;
   }
 
@@ -220,7 +220,7 @@ export default {};
   }
 
   .bottom-img {
-    height: 25%;
+    height: 50%;
   }
 
   .bottom-img img {
