@@ -2,17 +2,13 @@
   <div class="container">
     <div class="leaf"><img :src="require('@/assets/images/leaf.png')" /></div>
     <div class="text">
-      <p>코로나19 확산으로 인해</p>
-      <p>어려운 시기를 보내고 있는 요즘,</p>
-      <p>잠잠해질 날이 언제일지 누구도 예측할 수 없기에</p>
-      <p>결혼식을 미루지 않고</p>
-      <p>예정대로 진행하기로 결정하였습니다.</p>
-      <p>결혼식 참석에 대한 부담은 갖지 마시고</p>
-      <p>축하해주시는 마음 예쁘게 간직하겠습니다.</p>
-      <p>부디 저희 결혼 소식이 불편한 마음으로 머물지 않고</p>
-      <p>좋은 소식이 되길 바랍니다.</p>
+      <p>결혼식 참고사항</p>
+      <p>웨딩홀 6층</p>
+      <p>신부대기실 7층</p>
+      <p>웨딩부페 5층</p>
+      <p>전용주차장 3시간 무료</p>
     </div>
-    <div class="from">승진 & 미영 올림</div>
+    <div class="from">문의사항 032-228-8000</div>
     <div class="leaf"><img :src="require('@/assets/images/leaf.png')" /></div>
   </div>
 </template>
