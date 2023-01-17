@@ -51,7 +51,7 @@
                   <li>농협 000</li>
                   <li>예금주: 길성용</li>
                 </div>
-                <button class="btn-copy" @click="copyInfo" id="bride-w">
+                <button class="btn-copy" @click="copyInfo" id="bride-m">
                   복사하기
                 </button>
               </div>
@@ -61,7 +61,7 @@
                   <li>농협 000</li>
                   <li>예금주: 이민자</li>
                 </div>
-                <button class="btn-copy" @click="copyInfo" id="groom-w">
+                <button class="btn-copy" @click="copyInfo" id="bride-w">
                   복사하기
                 </button>
               </div>
@@ -102,11 +102,12 @@ export default {
     return {
       acc_w: false,
       isClicked: false,
-      groom: "농협 3560213809763",
-      bride: "국민 97120790768",
-      groom_m: "농협 86501117977",
-      groom_w: "농협 82108656096936",
-      bride_w: "농협 13004256015272",
+      groom: "국민 81810201084624",
+      bride: "",
+      groom_m: "우리 10506823202501",
+      groom_w: "농협 45306756071443",
+      bride_m: "",
+      bride_w: "",
     };
   },
   methods: {
