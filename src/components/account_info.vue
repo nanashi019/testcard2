@@ -9,7 +9,7 @@
               <div class="divide"></div>
               <div class="account-row">
                 <div class="account-row-column-text">
-                  <li>우리 000</li>
+                  <li>우리 105-068232-02-501</li>
                   <li>예금주: 이영호</li>
                 </div>
                 <button class="btn-copy" @click="copyInfo" id="groom-m">
@@ -19,7 +19,7 @@
               <div class="padding"></div>
               <div class="account-row">
                 <div class="account-row-column-text">
-                  <li>농협 000</li>
+                  <li>농협 453067-56-071443</li>
                   <li>예금주: 윤성미</li>
                 </div>
                 <button class="btn-copy" @click="copyInfo" id="groom-w">
@@ -32,7 +32,7 @@
               <div class="divide"></div>
               <div class="account-row">
                 <div class="account-row-column-text">
-                  <li>국민 000</li>
+                  <li>국민 818102-01-084624</li>
                   <li>예금주: 이승진</li>
                 </div>
                 <button class="btn-copy" @click="copyInfo" id="groom">
